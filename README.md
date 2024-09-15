@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/shoriful_dev" target="blank"><img src="https://img.shields.io/twitter/follow/shoriful_dev?logo=twitter&style=for-the-badge" alt="shoriful_dev" /></a> </p>
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 - 🔭 I’m currently working on **Building a Scalable Web Application**
