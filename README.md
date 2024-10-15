@@ -39,7 +39,7 @@
 
 # 👨🏽‍💻  Languages and Tools <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,vscode,github,figma,git,laravel,nodejs,express,firebase,php,nextjs,mysql,jquery" />
+    <img src="https://skillicons.dev/icons?i=wordpress,html,css,bootstrap,tailwind,javascript,typescript,react,vscode,github,figma,git,laravel,nodejs,express,firebase,php,nextjs,mongodb,jquery" />
 </div><br/><br/>
 
 
