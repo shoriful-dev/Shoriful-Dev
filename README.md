@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A Passionate Full-Stack Developer from Bangladesh</h3><br/>
 
-[![](https://visitcount.itsvg.in/api?id=Shoriful-Dev&icon=0&color=3)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoriful-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shoriful-dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shoriful_dev" target="blank"><img src="https://img.shields.io/twitter/follow/shoriful_dev?logo=twitter&style=for-the-badge" alt="shoriful_dev" /></a> </p>
 
