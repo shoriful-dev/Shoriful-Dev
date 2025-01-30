@@ -48,12 +48,12 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shoriful-Dev&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shoriful-Dev&theme=swift&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoriful-Dev&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shoriful-dev&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shoriful-dev&theme=swift&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-dev&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shoriful-Dev&limit=5&theme=swift&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shoriful-dev&limit=5&theme=swift&combine_all_yearly_contributions=true)
 
 
 ## Languages: 🌏
