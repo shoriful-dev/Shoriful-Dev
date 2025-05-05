@@ -40,7 +40,7 @@
 
 # 👨🏽‍💻  Languages and Tools <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,redux,figma,git,nodejs,express,firebase,nextjs,docker,postgresql,redis,prisma,mongodb,mysql,aws,jquery,graphql" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,redux,figma,git,nodejs,express,firebase,nextjs,jquery,docker,postgresql,redis,prisma,mongodb,mysql,graphql,aws" />
 </div><br/><br/>
 
 
