@@ -42,7 +42,8 @@
     <img src="https://skillicons.dev/icons?i=tailwind,javascript,typescript,react,redux,mongodb,nodejs,express,firebase,nextjs,postgresql,redis,nginx,prisma,mysql,graphql,aws,docker,bash,linux" />
 </div><br/><br/>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shoriful-dev&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shoriful-dev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/>
