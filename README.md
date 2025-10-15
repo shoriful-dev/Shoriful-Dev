@@ -42,10 +42,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,redux,figma,git,nodejs,express,firebase,nextjs,jquery,docker,postgresql,redis,prisma,mongodb,mysql,graphql,aws" />
 </div><br/><br/>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoriful-dev" alt="shoriful-dev" /></a> </p><br/>
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shoriful-dev&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
@@ -55,6 +52,20 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shoriful-dev&limit=5&theme=swift&combine_all_yearly_contributions=true)
 
+### 🏗️ Architecture & Design  
+- RESTful API Design  
+- MVC Pattern  
+- Component-Based Architecture (React)  
+- Authentication & Authorization  
+- Database Schema Design  
+
+---
+
+### 🎯 Focus Areas  
+- Building scalable MERN applications  
+- Writing clean, reusable TypeScript code  
+- Optimizing performance and accessibility  
+- Continuous learning & improvement 🚀
 
 ## Languages: 🌏
 - 🇧🇩 Bangla : Native
