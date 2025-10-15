@@ -39,7 +39,7 @@
 
 # 👨🏽‍💻  Languages and Tools <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,redux,figma,git,nodejs,express,firebase,nextjs,jquery,docker,postgresql,redis,prisma,mongodb,mysql,graphql,aws" />
+    <img src="https://skillicons.dev/icons?i=tailwind,javascript,typescript,react,redux,mongodb,nodejs,express,firebase,nextjs,postgresql,redis,nginx,prisma,mysql,graphql,aws,docker,linux" />
 </div><br/><br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoriful-dev" alt="shoriful-dev" /></a> </p><br/>
