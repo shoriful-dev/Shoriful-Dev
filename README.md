@@ -39,18 +39,18 @@
 
 # 👨🏽‍💻  Languages and Tools <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=tailwind,javascript,typescript,react,redux,mongodb,nodejs,express,firebase,nextjs,postgresql,redis,nginx,prisma,mysql,graphql,aws,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=tailwind,javascript,typescript,react,redux,mongodb,nodejs,express,firebase,nextjs,postgresql,redis,nginx,prisma,mysql,graphql,aws,docker,bash,linux" />
 </div><br/><br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoriful-dev" alt="shoriful-dev" /></a> </p><br/>
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shoriful-dev&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shoriful-dev&theme=swift&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-dev&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shoriful-dev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shoriful-dev&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-dev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shoriful-dev&limit=5&theme=swift&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shoriful-dev&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
 
 ### 🏗️ Architecture & Design  
 - RESTful API Design  
@@ -76,5 +76,4 @@
 -  Cricket 🏏,  Football ⚽,  Badminton 🏸,  Chess ♟️,  Volleyball 🏀
 -  Swimming 🏊‍♂️,  Running 🏃‍♂️,  Walking 🚶‍♂️
 -  Travelling ✈️
-
 
