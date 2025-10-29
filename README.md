@@ -77,4 +77,3 @@
 -  Cricket 🏏,  Football ⚽,  Badminton 🏸,  Chess ♟️,  Volleyball 🏀
 -  Swimming 🏊‍♂️,  Running 🏃‍♂️,  Walking 🚶‍♂️
 -  Travelling ✈️
-
