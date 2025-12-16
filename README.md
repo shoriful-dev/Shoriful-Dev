@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Building a Scalable Web Application**
 
-- 🌱 I’m currently learning **TypeScript and Exploring DevOps**
+- 🌱 I’m currently learning **Backend scalability and Exploring DevOps**
 
 - 💬 Ask me about **Technology and Personal Development**
 
@@ -22,7 +22,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact **I believe small improvements matter**
 
 # 👨‍🏫 About Me 
 **I am a passionate Full-Stack Developer with a strong background in both front-end and back-end technologies. I specialize in creating scalable, performance-driven web applications using modern tools like React, Node.js, Express, and MongoDB. My approach combines innovative problem-solving with a deep understanding of UI/UX principles and responsive design. Whether building RESTful APIs, managing cloud infrastructure, or optimizing databases, I thrive in agile environments and continuously strive to deliver high-quality, robust solutions.I am improving my web development skills. Every day I want to learn something new.**
