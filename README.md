@@ -43,17 +43,28 @@
 </div><br/><br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shoriful-dev&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=shoriful-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MD. SHORIFUL ISLAM's GitHub Trophies" />
+</p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shoriful-dev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shoriful-dev&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-dev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoriful-dev&" alt="shoriful-dev" /></p>
+<p align="center">
+  <a href="https://github.com/shoriful-dev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoriful-dev&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="shoriful-dev's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=shoriful-dev&theme=onedark&hide_border=true&cache_seconds=86400" alt="shoriful-dev's GitHub Streak" width="49%" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shoriful-dev&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shoriful-dev&theme=react-dark&radius=10" alt="shoriful-dev's Activity Graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/shoriful-dev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shoriful-dev&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 ### 🏗️ Architecture & Design  
 - RESTful API Design  
