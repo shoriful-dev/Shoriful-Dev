@@ -52,6 +52,7 @@
   <a href="https://github.com/shoriful-dev">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoriful-dev&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="shoriful-dev's GitHub Stats" />
   </a>
+    <br>
   <img src="https://streak-stats.demolab.com/?user=shoriful-dev&theme=onedark&hide_border=true&cache_seconds=86400" alt="shoriful-dev's GitHub Streak" width="49%" />
 </p>
 
