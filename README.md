@@ -50,6 +50,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=shoriful-dev&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoriful-dev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoriful-dev&" alt="shoriful-dev" /></p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shoriful-dev&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
 
