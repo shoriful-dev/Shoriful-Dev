@@ -49,22 +49,24 @@
 
 # 📊 GitHub Stats:
 <p align="center">
+    
   <a href="https://github.com/shoriful-dev">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoriful-dev&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="shoriful-dev's GitHub Stats" />
   </a>
     <br>
+    
   <img src="https://streak-stats.demolab.com/?user=shoriful-dev&theme=onedark&hide_border=true&cache_seconds=86400" alt="shoriful-dev's GitHub Streak" width="49%" />
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shoriful-dev&theme=react-dark&radius=10" alt="shoriful-dev's Activity Graph" />
 </p>
 
 <p align="center">
   <a href="https://github.com/shoriful-dev">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shoriful-dev&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
   </a>
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shoriful-dev&theme=react-dark&radius=10" alt="shoriful-dev's Activity Graph" />
 </p>
 
 ### 🏗️ Architecture & Design  
@@ -91,3 +93,7 @@
 -  Cricket 🏏,  Football ⚽,  Badminton 🏸,  Chess ♟️,  Volleyball 🏀
 -  Swimming 🏊‍♂️,  Running 🏃‍♂️,  Walking 🚶‍♂️
 -  Travelling ✈️
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
