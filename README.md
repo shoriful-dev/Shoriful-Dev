@@ -29,12 +29,26 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shoriful-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shoriful-dev" height="30" width="40" /></a>
-<a href="https://twitter.com/shoriful_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoriful_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shoriful-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoriful-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/this_is_shohel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="this_is_shohel" height="30" width="40" /></a>
-<a href="https://dribbble.com/dev50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dev50" height="30" width="40" /></a>
+<p>
+  <a href="https://dev.to/shoriful-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://twitter.com/shoriful_dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/shoriful-dev">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://instagram.com/this_is_shohel">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://dribbble.com/dev50">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="40" />
+  </a>
 </p>
 
 # 👨🏽‍💻  Languages and Tools <br/>
