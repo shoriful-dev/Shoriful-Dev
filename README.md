@@ -30,25 +30,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
- <a href="shorifulislam9038@gmail.com">
+  <a href="mailto:shorifulislam9038@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>&nbsp;&nbsp;
 
-  <a href="https:shoriful.me">
+  <a href="https://shoriful.me">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="40" />
   </a>&nbsp;&nbsp;
-    
+
   <a href="https://linkedin.com/in/shoriful-dev">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>&nbsp;&nbsp;
-    
+
   <a href="https://twitter.com/shoriful_dev">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
   </a>&nbsp;&nbsp;
 
   <a href="https://instagram.com/this_is_shohel">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 # 👨🏽‍💻  Languages and Tools <br/>
