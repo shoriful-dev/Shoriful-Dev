@@ -102,9 +102,3 @@
 -  Cricket 🏏,  Football ⚽,  Badminton 🏸,  Chess ♟️,  Volleyball 🏀
 -  Swimming 🏊‍♂️,  Running 🏃‍♂️,  Walking 🚶‍♂️
 -  Travelling ✈️
-
-<br>
-<p align="center">
-    <h3>🎮 Contribution Games</h3>
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
