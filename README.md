@@ -61,20 +61,25 @@
   <img src="https://trophy.ryglcloud.net/?username=shoriful-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MD. SHORIFUL ISLAM's GitHub Trophies" />
 </p>
 
+<br/>
+
 # 📊 GitHub Stats:
-<p align="left">
-    
-  <a href="https://github.com/shoriful-dev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoriful-dev&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="shoriful-dev's GitHub Stats" />
-  </a>
-    <br>
-    
-  <img src="https://streak-stats.demolab.com/?user=shoriful-dev&theme=onedark&hide_border=true&cache_seconds=86400" alt="shoriful-dev's GitHub Streak" width="49%" />
-</p>
+
+<br/>
 
 <p align="left">
   <a href="https://github.com/shoriful-dev">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shoriful-dev&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoriful-dev&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="shoriful-dev's GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <img height="195em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shoriful-dev&theme=onedark" alt="shoriful-dev's GitHub Streak" />
+</p>
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/shoriful-dev">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shoriful-dev&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
