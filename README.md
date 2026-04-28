@@ -69,7 +69,7 @@
   </a>
     <br>
     
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shoriful-dev&theme=onedark" alt="shoriful-dev's GitHub Streak" width="40%" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shoriful-dev&theme=onedark" alt="shoriful-dev's GitHub Streak" width="49%" />
 </p>
 <p align="left">
   <a href="https://github.com/shoriful-dev">
