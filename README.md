@@ -54,7 +54,7 @@
 # 👨🏽‍💻  Languages and Tools <br/>
 <div>
     <img src="https://skillicons.dev/icons?i=tailwind,javascript,typescript,react,redux,mongodb,nodejs,express,firebase,bun,gitlab,githubactions,nextjs,postgresql,redis,nginx,prisma,mysql,graphql,aws,docker,bash,ubuntu,linux" />
-</div><br/><br/>
+</div><br/>
 
 ## 🏆 GitHub Trophies
 <p align="left">
