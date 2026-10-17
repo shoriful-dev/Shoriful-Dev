@@ -12,17 +12,9 @@
 <img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-- 🔭 I’m currently working on **Building a Scalable Web Application**
-
-- 🌱 I’m currently learning **Backend scalability and Exploring DevOps**
-
-- 💬 Ask me about **Technology and Personal Development**
-
-- 📫 How to reach me **shorifulislam9038@gmail.com**
-
-- 😄 Pronouns: **He/Him**
-
-- ⚡ Fun fact **I believe small improvements matter**
+- 🌱 I’m currently learning **DevOps and system design**
+- 👨‍💻 Selected work → [shoriful.me/projects](shoriful.me/projects)
+- 🤝 Taking on freelance projects, open to full-time roles → [get in touch](https://www.shoriful.me/#contact)
 
 # 👨‍🏫 About Me 
 **I am a passionate Full-Stack Developer with a strong background in both front-end and back-end technologies. I specialize in creating scalable, performance-driven web applications using modern tools like React, Node.js, Express, and MongoDB. My approach combines innovative problem-solving with a deep understanding of UI/UX principles and responsive design. Whether building RESTful APIs, managing cloud infrastructure, or optimizing databases, I thrive in agile environments and continuously strive to deliver high-quality, robust solutions.I am improving my web development skills. Every day I want to learn something new.**
