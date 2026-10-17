@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DevOps and system design**
 - 👨‍💻 Selected work → [shoriful.me/projects](shoriful.me/projects)
-- 🤝 Taking on freelance projects, open to full-time roles → [get in touch](https://www.shoriful.me/#contact)
+- 🤝 Freelance projects, open to full-time roles → [get in touch](https://www.shoriful.me/#contact)
 
 <br/>
 <br/>
