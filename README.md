@@ -43,7 +43,7 @@
 
 # 👨🏽‍💻  Languages and Tools <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,tailwind,react,redux,mongodb,nodejs,express,nestjs,fastapi,firebase,bun,gitlab,githubactions,nextjs,postgresql,redis,nginx,prisma,mysql,graphql,aws,docker,kubernetes,bash,arch,linux" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,tailwind,react,redux,mongodb,nodejs,express,nestjs,firebase,bun,gitlab,githubactions,nextjs,postgresql,redis,nginx,prisma,mysql,graphql,aws,docker,kubernetes,bash,arch,linux" />
 </div><br/>
 
 ## 🏆 GitHub Trophies
